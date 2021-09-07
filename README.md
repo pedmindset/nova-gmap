@@ -15,6 +15,10 @@ Next publish the config file with:
 This will create a config file at `config/nova-gmaps.php` where you will need to enter your Google Maps API key, default position and zoom level.
 
 
+### Versions
+- **v1.0** Laravel 6 & 7
+- **v2.0** Laravel 8
+
 ### Usage
 
 To add this field to a Nova resource:
