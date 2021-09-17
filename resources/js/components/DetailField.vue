@@ -38,7 +38,7 @@ export default {
             this.marker = new google.maps.Marker({
                 position: coords,
                 map: this.map,
-                draggable: true
+                draggable: false
             });
 
             this.map.setCenter(coords);
